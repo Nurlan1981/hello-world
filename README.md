@@ -1,2 +1,3 @@
 # hello-world
-study
+Hello people!
+My name is Nurlan. I'm pretty new in Codding
